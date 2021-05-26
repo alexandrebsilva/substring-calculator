@@ -17,6 +17,7 @@ module.exports = function substringCalculator(s) {
     getCombinations(string);
   }
 
+  //removes combinations with the same letter (duplicated)
   const result = [...new Set(combinationsWithString)];
 
   return result.length;
