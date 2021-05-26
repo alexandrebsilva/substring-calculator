@@ -1,0 +1,23 @@
+{
+  "name": "substring-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrebsilva/substring-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrebsilva/substring-calculator/issues"
+  },
+  "homepage": "https://github.com/alexandrebsilva/substring-calculator#readme",
+  "dependencies": {
+    "jest": "^27.0.1"
+  }
+}
